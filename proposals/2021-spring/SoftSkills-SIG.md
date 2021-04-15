@@ -49,7 +49,8 @@ For the next period, we will keep focused on topic sessions, this time also aski
 
 * 15/04/2021 Session on public speaking: "*How to be more comfortable in front of an audience*", by Jens. 
 * 06/05/2021 Session on cultural awareness by Nicole Kienhuis, an intercultural trainer. We have plans to 
-* 27/05/2021 Session on providing and receiving Feedback (II) this time more focusing on RES-oriented tasks, like how to provide/receive feedback via Teams, pull request or article review.
+* 27/05/2021 Session on presentations skills and slide designing, by Pablo R.
+* 17/06/2021 Session on providing and receiving Feedback (II) this time more focusing on RES-oriented tasks, like how to provide/receive feedback via Teams, pull request or article review.
 
 
 ## What are the expected outputs of the SIG?
