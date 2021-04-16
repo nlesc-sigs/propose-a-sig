@@ -30,7 +30,7 @@ Topics discussed in this period include:
 
 Due to the Corona crisis, involvement of external people was postponed.
 
-We are also working on setting up an [Introduction to Agile](https://github.com/escience-academy/lesson-agile-escience) course. This is reaching the beta phase now.
+We are also working on setting up an [Introduction to Agile](https://github.com/escience-academy/lesson-agile-escience) course. This is reaching the beta phase now. Once completed we wil also do some outreach (e.g. Blog or a presentation) based on the course.
 
 ## Plans for the period until the end of October 2021
 <!--  help text goes here  -->
