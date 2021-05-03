@@ -25,11 +25,14 @@ There is also a [Microsoft Teams Group](https://teams.microsoft.com/l/team/19%3a
 
 ## Plans for the period until the end of October 2020
 <!--  help text goes here  -->
-- **Finish course Deep Learning for NLP**: we have one [https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z](video lecture) left 
+- **Finish course Deep Learning for NLP**: we have one [video lecture](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) left 
 - **Continue general meetings**: with the following activities:
   - Discuss the progress of the running NLeSC NLP projects
   - Watch relevant (online) lectures or presentations
   - Discuss recent paper / tool / methodology
+- **Invite external speakers**, if possible in coordination with NL-RSE
+- **Explore expanding SIG topic to the Social Sciences**
+- **Explore organizing an event at a relevant conference** (workshop or tutorial)
 
 ## What are the expected outputs of the proposed SIG?
 - Improved awareness of natural language processing issues in current eScience projects by increased communication between knowledgeable and interested engineers
