@@ -5,19 +5,17 @@
       Make it specific enough to be meaningful,
       but broad enough to give you room  to shift focus when necessary.  -->
 
-## Which two persons will act as SIG Leads?
-<!--  Please make sure to have two SIG leads to reduce bus factor. One of them
-      should act as main point of contact.
+## Which person will act as SIG Lead?
+<!--  This person acts as main point of contact and is responsible for planning the SIG.
       SIG leads are allowed to write the hours dedicated to organizing
-      SIG activities under the R&D budget. Please mention in the notes the
+      SIG activities under the KD budget. Please mention in the notes the
       name of your SIG:
         Account: 000104
-        Project: 00020213
+        Project: 00020233
         Hour type: 00072
         Notes: Hours for X SIG
        -->
-- the first person (main point of contact)
-- the second person
+Name and mail address of the SIG lead (main point of contact)
 
 ## What is SIG’s mission?
 <!--  help text goes here  -->
@@ -30,10 +28,10 @@ https://github.com/nlesc-sigs/<some-repo>
 ## What is the Office group that the SIG uses?
 <!--  help text goes here  -->
 
-## SIG outcomes in the period April 2020 - October 2020 (for existing SIGs)
+## SIG outcomes of the past year (for existing SIGs)
 <!--  As a simple list of activities in this period is enough.  -->
 
-## Plans for the period until the end of April 2021
+## Plans for the coming year
 <!--  help text goes here  -->
 In this section, list what plans you have for this SIG. Describe each plan according to the following format:
 
