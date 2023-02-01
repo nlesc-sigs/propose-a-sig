@@ -16,7 +16,7 @@ Unleash the storyteller in you (preliminary).
 ## What is the SIG's mission?
 
 We want to promote science communication and outreach inside our
-organization. 
+organization.
 
 This aligns well with our institutional targets. It also aligns with the engineers' interests: we conducted a
 survey that showed that, out of 39 votes, the interest in
@@ -28,7 +28,8 @@ https://github.com/NLeSC/Scicomm-SIG
 
 ## What is the Office group that the SIG uses?
 
-Team channel:  [`SIGs/Science communication SIG`](https://teams.microsoft.com/l/channel/19%3a1d723c5475fe4f358b662beb9b499b54%40thread.tacv2/Science%2520communication%2520SIG?groupId=1d47d6e8-7246-4564-8160-7a8adcdd4c16&tenantId=aa3aeacc-6307-42b2-ac05-787dd5c32574)
+- Group address: scicomm@esciencecenter.nl
+- Team channel: [link](https://teams.microsoft.com/l/team/19%3ajS1jtRERwqovkda1iHZN_NGj4MZhzc00HSVCOulia7w1%40thread.tacv2/conversations?groupId=4fe00245-b3f9-4719-81bb-e654cc9d9bfc&tenantId=aa3aeacc-6307-42b2-ac05-787dd5c32574)
 
 ## Plans for the next period
 
