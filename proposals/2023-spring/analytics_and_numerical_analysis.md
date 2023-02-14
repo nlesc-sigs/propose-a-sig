@@ -40,6 +40,7 @@ All details are available in our [public repo](https://github.com/nlesc-sigs/ana
 
 ### Other
 
+- Some of us attended the [Nederlands Matematisch Congres](https://mathematischcongres.nl/).
 - One brainstorm session about making SIGs websites public.
 - Two more strategy meetings.
 - Already secured some external speakers for this year.
