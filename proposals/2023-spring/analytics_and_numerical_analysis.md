@@ -28,7 +28,21 @@ https://github.com/nlesc-sigs/analytics-sig
 
 ## SIG outcomes of the past year (for existing SIGs)
 
-??????
+All details are available in our [public repo](https://github.com/nlesc-sigs/analytics-sig).
+### Seminars
+
+- Pattern formation, by Frits Veerman.
+- Neural networks back propagation (joint session with the Machine Learning SIG).
+
+### Study groups
+
+- Three study group sessions.
+
+### Other
+
+- One brainstorm session about making SIGs websites public.
+- Two more strategy meetings.
+- Already secured some external speakers for this year.
 
 ## Plans for the coming year
 
