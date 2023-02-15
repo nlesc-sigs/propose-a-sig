@@ -2,7 +2,7 @@
 
 ## What is/will be the name of the SIG?
 
-Analytics and Numerical Analysis
+Numerics and Analysis
 
 ## Which person will act as SIG Lead?
 
@@ -13,8 +13,8 @@ Analytics and Numerical Analysis
 
 To contribute to the internal development of knowledge on applied mathematics topics, both analytical and numerical, at the Netherlands eScience Center. More specifically, the SIG aims to:
 
-- Provide introductory talks on key topics in applied mathematics, with a focus on analytics and numerical analysis, _e.g._, time integrators, partial differential equations discretisations, linear algebra, statistics, analysis.
-- Provide a link between applied theory and software package implementations.
+- Provide introductory talks on key topics in applied mathematics, with a focus on analysis and numerics, _e.g._, numerical time integrators, discretisations of partial differential equations, linear algebra, statistics, analysis, geometry.
+- Provide a link between applied mathematical theory and software package implementations.
 - Provide a meeting point for members to bring their own applied math problem to be discussed.
 
 ## What is the GitHub repository of the SIG use?
